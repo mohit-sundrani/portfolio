@@ -1,0 +1,24 @@
+[
+    {
+        "name": "QuickTube - YouTube Video Summarizer",
+        "tech": [
+            "Typescript",
+            "React.js",
+            "TailwindCSS",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Prisma",
+            "Zod",
+            "Gemini"
+        ],
+        "source": "",
+        "live": ""
+    },
+    {
+        "name": "Portfolio - Personal Portfolio",
+        "tech": ["Typescript", "React.js", "TailwindCSS"],
+        "source": "",
+        "live": ""
+    }
+]

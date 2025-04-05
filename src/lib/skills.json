@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Languages",
+        "skill": "HTML, CSS, Javascript, Typescript, Java, C"
+    },
+    {
+        "title": "Frontend",
+        "skill": "React.js, Next.js, TailwindCSS, Bootstrap, Shadcn UI, NextUI, ReactBits"
+    },
+    {
+        "title": "Backend",
+        "skill": "Node.js, Express.js, Next.js, Prisma, Mongoose"
+    },
+    {
+        "title": "Database",
+        "skill": "MongoDB, Firestore, MySQL"
+    },
+    {
+        "title": "Libraries",
+        "skill": "Zod, Axios, Bcrypt, JWT"
+    },
+    {
+        "title": "Cloud & Deployment",
+        "skill": "Firebase, Cloudflare, Vercel, Netlify"
+    },
+    {
+        "title": "Tools",
+        "skill": "Git, Github, VSCodium, Figma"
+    },
+    {
+        "title": "Operating System",
+        "skill": "Linux"
+    }
+]
